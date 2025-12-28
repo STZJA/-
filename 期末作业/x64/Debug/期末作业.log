@@ -1,0 +1,38 @@
+﻿  Difficulty.cpp
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(18,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(19,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(25,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(26,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(30,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(31,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(32,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(33,23): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(37,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(38,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(39,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(40,23): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(44,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(45,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(46,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(47,23): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(51,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(52,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(53,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(54,23): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(90,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(91,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(97,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(98,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(102,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(103,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(104,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(108,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(109,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(110,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(111,23): warning C4305: “=”: 从“double”到“float”截断
+  Level_mode.cpp
+  qimo.cpp
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\qimo.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+C:\Users\FFT\Desktop\code\期末作业\期末作业\期末作业\Difficulty.cpp(78,1): warning C4715: “SelectTypeByWeights”: 不是所有的控件路径都返回值
+  期末作业.vcxproj -> C:\Users\FFT\Desktop\code\期末作业\期末作业\x64\Debug\期末作业.exe
